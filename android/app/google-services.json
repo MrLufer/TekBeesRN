@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582188879729",
+    "project_id": "tekbees-39f3d",
+    "storage_bucket": "tekbees-39f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582188879729:android:bf9ea9934c99cfef6d70d0",
+        "android_client_info": {
+          "package_name": "com.tekbeesrn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHZ971UPH8GS6cKs4R-ovOc_ANqmCUE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
